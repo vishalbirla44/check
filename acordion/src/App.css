@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+gap: 30px;
+}
+.faq{
+    width: 70%;
+    height: 90px;
+    background: #1f3f05;
+    color: aliceblue;
+}
